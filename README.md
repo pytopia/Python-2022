@@ -1,7 +1,7 @@
 # Python
 
 <!-- Logo image -->
-![python-logo](./images/python-logo.jpeg)
+<img src="./images/python-logo.jpeg" alt="logo" style="max-width:400px;"/>
 
 [Pytopia](https://www.pytopia.ai) Python Course Material. Including:
 
