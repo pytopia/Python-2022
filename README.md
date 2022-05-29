@@ -1,7 +1,11 @@
 # Python
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Logo image -->
 <img src="./images/python-logo.jpeg" alt="logo" width="400"/>
+
+
 
 [Pytopia](https://www.pytopia.ai) Python Course Material. Including:
 
